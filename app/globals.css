@@ -1,0 +1,309 @@
+.navbar{
+    width: 100%;
+    position: relative;
+    display: flex;
+    padding: 10px;
+    background-color: #fdf6e2;
+    justify-content: space-around;
+    box-shadow: 10px 10px #e7e2e2;
+}
+.head {
+    background-color: #fdf6e2;
+    height: 52px;
+    width: 5%;
+    margin-top: 19px;
+    margin-left:400px;
+    box-sizing: border-box;
+}
+.col5{
+    height:39px;
+    width:31%;
+    margin-top:20px;
+    margin-right: 716px;
+    display:flex;
+    float:left;
+    justify-content:center;
+}
+.support{
+    border: solid 1px black;
+    width: 4%;
+    margin-left:321px;
+    margin-top: 4px;
+    height: 67px;
+}
+.logo{
+    font-size:40px;
+    background-color:  #fdf6e2;
+}
+.p{
+    font-size:30px;
+    margin-left:478px;
+    margin-top:230px;
+
+}
+
+.pic {
+    width: 323px;
+    height: 326px;
+    position: relative;
+    left: 51px;
+    margin-bottom: 20px;
+}
+.t{
+    margin-left: 500px;
+    top: 229px;
+    color: var(--Dark, #3C3030);
+    font-family: "Inknut Antiqua";
+    font-size: 70px;
+    position:relative;
+}
+
+.home {
+    width: 46%;
+    height: 530px;
+    margin-left: 1261px;
+    margin-top: -633px;
+}
+
+
+.tittle {
+    margin-left: 86px;
+    margin-top: -24px;
+    color: var(--Dark, #3C3030);
+    font-family: "Inknut Antiqua";
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.k{
+    font-size: 28px;
+    margin-left: 34px;
+    text-align: center;
+}
+
+.m{
+    font-size:29px;
+    margin-left:10px;
+
+}
+.head-row{
+    height:700px;
+    background-color:#fdf6e2;
+    bottom:-9px;
+    position:relative;
+}
+.typewrite{
+    color: #ff5733;
+
+}
+.button{
+    margin-bottom:20px;
+    margin-left:463px;
+}
+.btn{
+    margin: 10px;
+}
+.box{
+    background-color:white;
+    bottom:40px;
+    height:536px;
+}
+.f{
+    background-color:#fdf6e2;
+    bottom:20px;
+    position:relative;
+}
+.img{
+    width:74%;
+    margin-top:20px;
+    margin-left:94px;
+}
+
+.anchor{
+
+    margin-bottom:30px;
+    margin-left:10px;
+}
+.row2{
+    height:649px;
+    background-color:white;
+    margin-top:30px;
+}
+.right{
+    width:50%;
+    height:649px;
+    margin-left:20px;
+
+}
+
+.logo-img {
+    width: 74%;
+    margin-left: 82px;
+    margin-top: 20px;
+}
+
+.icon {
+    margin-left: 71px;
+    font-size: 14px;
+    text-align:center;
+    margin-top: 73px;
+}
+.trainers{
+    text-align:center;
+    color:blue;
+    font-family:sans-serif;
+    font-size:34px;
+}
+.row3 {
+    height: 400px;
+    background-color:antiquewhite;
+}
+.start-items {
+    height: 142px;
+    width: 170px;
+    margin-top: 121px;
+    margin-left: 514px;
+    display: flex;
+    float: left;
+}
+
+.left {
+    width: 50%;
+    height: 649px;
+    margin-left: 1241px;
+    margin-top: -649px;
+}
+
+.footer{
+    color: #fff;
+    background-image: linear-gradient(90deg,#271b6f,#57192d);
+    position: relative;
+    width: 100%;
+    height: 30%;
+    border-top-left-radius: 70px;
+    font-size: .8rem;
+  }
+.box2{
+    height:400px; 
+     
+}
+.box3{
+    height:400px;
+    width:351px;
+    margin-left:51px;
+    float:left; 
+}
+.box4{
+    height:200px;
+    margin-left:213px;
+    margin-right:213px;
+    margin-top:107px;
+}
+.image{
+    width:69%;
+    border-radius:50%;
+    margin-bottom:15px;
+    margin-top:12px;
+    margin-left:20px;
+}
+.name{
+    text-align:center;
+    font-size:30px;
+    margin-bottom:20px;
+    color: var(--Dark, #3C3030);
+    font-family: "Inknut Antiqua";
+
+}
+.left-head{
+    font-size:40px;
+    margin-top:30px;
+    margin-left:20px;
+}
+.r{
+    text-align:center;    
+    font-size:25px;
+    margin-top:-21px;
+}
+.paragraph{
+    font-size:21px;
+    margin-top:10px;
+}
+
+.author{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  height:80px;
+}
+.box5{
+    height:91px;
+    margin-top:20px;
+    display:flex;
+    box-shadow:10px 10px #e7e2e2;
+}
+.logo_img{
+   width:32%;
+   margin-left:20px;
+}
+.response{
+    text-align:center;
+    margin-top:20px;
+    margin-left:-142px;
+    position:relative;
+}
+.s {
+    width: 20%;
+    border-radius: 100%;
+    height: 64px;
+    margin-left: 7px;
+}
+.web{
+    margin-left:27px;
+    margin-bottom:400px;
+    font-size:20px;
+}
+.founder{
+   text-align:center;
+    margin-top:20px;
+    margin-left:-76px;
+    position:relative;
+}
+.head-img{
+    width:154px;
+    margin-top:25px;
+    margin-left:20px;
+}
+
+
+.footer-para{
+    color:white;
+    font-size:24px;
+    margin-top:20px;
+    margin-left:20px;
+}
+.footer-head{
+    font-size:40px;
+    color:white;
+    margin-top:24px;
+    margin-left:20px;
+}
+.subscribe{
+    width:40%;
+    height:60px;
+    display:flex;
+}
+
+.footer-img{
+    width:10%;
+    height:40px;
+    margin-right:-162px;
+}
+
+
+@media (max-width: 960px) {
+  footer {
+    width: 100%;
+    top: 120px;
+
+  }
+}

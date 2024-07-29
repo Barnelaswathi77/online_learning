@@ -239,10 +239,9 @@
     height:91px;
     margin-top:20px;
     display:flex;
-    box-shadow:10px 10px #e7e2e2;
 }
 .logo_img{
-   width:32%;
+   width:31%;
    margin-left:20px;
 }
 .response{
@@ -296,14 +295,6 @@
 .footer-img{
     width:10%;
     height:40px;
-    margin-right:-162px;
+    margin-left:35px;
 }
 
-
-@media (max-width: 960px) {
-  footer {
-    width: 100%;
-    top: 120px;
-
-  }
-}
